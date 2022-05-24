@@ -1,0 +1,49 @@
+@import url('http://fonts.cdnfonts.com/css/bahnschrift');
+
+$background: #DAD7CD;
+$light_green: #A3B18A;
+$green1: #588157;
+$green2: #3A5A40;
+$dark_green: #344E41;
+$black: black;
+$white: white;
+
+$font: 'Bahnschrift', sans-serif;
+
+.modal{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: $light_green + D9;
+    padding-top: 10vh;
+   
+    &__close{
+        position: absolute;
+        right: 3vw;
+        top: 3vh;
+        font-size: 4rem;
+        font-weight: bold;
+        color: $dark_green;
+
+        &:hover{
+            cursor: pointer;
+            transition: 0.1s;
+            opacity: 0.4;
+        }
+    }
+
+    &__content{
+        margin: auto;
+        width: calc(68% - 10vw);
+    }
+
+    &__img{
+        width: 100%;
+    }
+    
+}

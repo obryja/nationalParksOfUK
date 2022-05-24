@@ -1,0 +1,23 @@
+<div class="menu">
+    <div class="menu__logo">
+            <a href="/"><img srcset="../img/logo.png, img/logo.png" src="img/logo.png" alt="Parki Narodowe"></a>
+        </div>
+        <div class="menu__title">
+            <a href="/"><h1>Parki Narodowe Wielkiej Brytanii</h1></a>
+        </div>
+        <div class="menu__dropdown">
+            <a><div class="arrow arrow--down"></div></a>
+            <div class="menu__dropdown__content">
+                <script>
+                    var menu = document.getElementsByClassName('menu__dropdown__content')[0];
+
+                    dataFetch('/get_all_parks')
+                        .then(data => {
+                            for(i = 0; i < data.length; i++){
+                            menu.innerHTML += "<a href='/park/" + data[i]._id  + "'>" + data[i].name + "</a>";
+                        }
+                        })
+                </script>
+            </div>
+        </div>
+</div>

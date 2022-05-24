@@ -1,0 +1,144 @@
+@import url('http://fonts.cdnfonts.com/css/bahnschrift');
+
+$background: #DAD7CD;
+$light_green: #A3B18A;
+$green1: #588157;
+$green2: #3A5A40;
+$dark_green: #344E41;
+$black: black;
+$white: white;
+
+$font: 'Bahnschrift', sans-serif;
+
+body{
+    background-color: $background;
+    color: $dark_green;
+    font-family: $font;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 80vw;
+    min-height: 75vh;
+    margin: 5vh 10vw;
+    padding: 0;
+}
+
+.arrow{
+    border: solid $black;
+    border-width: 0 4px 4px 0;
+    display: inline-block;
+    padding: 8px;
+
+    &--down{
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+    }
+}
+
+/*************** index ***************/
+
+.parks{
+    &__list{
+        height: 25vh;
+        min-height: 250px;
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        justify-items: center;
+        row-gap: 4vh;
+
+        a{
+            color: $background;
+            text-decoration: none;
+            height: 100%;
+        }
+
+        &__item{
+            height: 100%;
+            width: 14vw;
+            background-color: $dark_green;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            justify-items: center;
+            transition-duration: 0.35s;
+
+            img{
+                max-height: 100%;
+                max-width: 100%;
+            }
+
+            h3{
+                margin: 1vh 0.5vw 1vh 0.5vw;
+                width: 90%;
+                font-size: 1.5em;
+            }
+
+            &:hover{
+                opacity: 0.5;
+                transform: scale(1.05);
+            }
+        }
+    }
+}
+
+/*************** park ***************/
+
+.park{
+    width: 100%;
+
+    &__info{
+        width: calc(100% - 4vh);
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        background-color: $dark_green;
+        padding: 2vh;
+        border-radius: 5px;
+
+        *{
+            margin: auto;
+            font-size: 1.5em;
+            text-decoration: none;
+            color: $light_green;
+        }
+    }
+
+    &__description{
+        text-align: justify;
+        margin: 5vh 0;
+        font-size: 1.25em;
+    }
+
+    h2{
+        font-size: 1.75em;
+    }
+
+    &__galery{
+        width: 100%;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+        gap: 2vh 2vw;
+        flex-wrap: wrap;
+
+        img{
+            width: calc(30% - 6vw);
+            border-radius: 4px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+
+
+            &:hover{
+                opacity: 0.5;
+                transform: scale(1.05);
+                transition: 0.5s;
+                cursor: pointer;
+            }
+        }
+    }
+}

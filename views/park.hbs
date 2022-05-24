@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{> head }}
+    <script>
+        var parkId = "{{ parkId }}";
+    </script>
+    <script src="/js/park.js" defer></script>
+    <link rel="stylesheet" href="/css/modal.css">
+</head>
+<body>
+    {{> nav}}
+    <div class="main">
+        <div class="park">
+            <h1 class="park__name"></h1>
+            <div class="park__info">
+                <p class="park__year"></p>
+                <a class="park__website" target="_blank">Strona internetowa Parku</a>
+                <p class="park__area"></p>
+            </div>
+            <div class="park__description"></div>
+            <h2>Galeria</h2>
+            <div class="park__galery">
+
+            </div>
+            <div class="modal">
+                <span onclick="hideModal()" class="modal__close">&times;</span>
+                <div class="modal__content">
+                    <img class="modal__img">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
