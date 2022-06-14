@@ -38,12 +38,14 @@ $font: 'Bahnschrift', sans-serif;
     }
 
     &__content{
+        text-align: center;
         margin: auto;
         width: calc(68% - 10vw);
     }
 
     &__img{
-        width: 100%;
+        max-width: 100%;
+        max-height: 80vh;
     }
     
 }
