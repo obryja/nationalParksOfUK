@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f67d"
+  },
+  "name": "Peak District",
+  "description": "Peak District to obszar wyżynny w Anglii, w południowych Górach Pennińskich. Park dzieli się na dwie główne części: Dark Peak - na północy, wschodzie i zachodzie, gdzie występują wrzosowiska oraz White Peak - w centrum i na południu, gdzie możemy obserwować skały wapienne, doliny i wąwozy.<br><br>W Parku możemy podziwiać wiele gatunków roślin, takich jak: Storczyk męski, Kruszczyk rdzawoczerwony, Dwulistnik muszy, Posłonek rozesłany. Ponadto w Peak District żyje wiele zajęcy górskich, Rzepołuch, Uszatek błotnych, Siewek złotych. <br><br><ul><li>Jest to pierwszy Park Narodowy w Wielkiej Brytanii</li><li>Park zamieszkuje 38 000 osób</li><li>Park rocznie odwiedza 8,4 mln turystów</li></ul>\n",
+  "year": 1951,
+  "area": 1438,
+  "website": "https://www.peakdistrict.gov.uk/",
+  "galery": [
+    "https://www.muchbetteradventures.com/magazine/content/images/size/w2000/2021/05/GettyImages-176811602.jpg",
+    "https://peakdistrictkids.co.uk/wp-content/uploads/2020/05/PeakDistrict1.jpg.webp",
+    "https://www.tapeciarnia.pl/tapety/normalne/tapeta-wzgorze-mam-tor-w-parku-narodowym-peak-district.jpg",
+    "https://www.life-myjourney.com/wp-content/uploads/2021/03/DSC04872-kopia.jpg",
+    "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/08/19043605/Peak-District-1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peak_District_National_Park_UK_location_map.svg/800px-Peak_District_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f67e"
+  },
+  "name": "Lake District",
+  "description": "Lake District znajduje się w północno-zachodniej Anglii, obejmuje cały centralny Lake District. Od utworzenia w 1951 zachował swoje pierwotne granice, aż do 2016, kiedy to został rozszerzony o 3%, aby objąć Lune Valley. Celem jego utworzenia była ochrona górzystego obszaru jezior. Od 2017 roku znajduje się na liście światowego dziedzictwa UNESCO.<br><br>Jak w innych Parkach Narodowych w Anglii, nie ma ograniczeń dotyczących wjazdu do parku, ani poruszania się po nim drogami publicznymi. Jednak dostęp do gruntów uprawnych jest ograniczony.<br><br><ul><li>Jest to najczęściej odwiedzany Park Narodowy w Wielkiej Brytanii, z 16,4 miliona odwiedzających rocznie.</li><li>Jest drugim największym Parkiem Narodowym, zaraz po Cairngorms.</li><li>Większość terenów parku jest własnością prywatną, a 55% jest zarejestrowanych jako grunty rolne.</li><li>Władze Parku mają swoją siedzibę w Kendal.</li><li>Na terenie Parku znajduje się największe jezioro Anglii - Windermere</li></ul>",
+  "year": 1951,
+  "area": 2292,
+  "website": "https://www.lakedistrict.gov.uk/",
+  "galery": [
+    "https://keswickadventures.co.uk/wp-content/uploads/2021/08/lake-district-mountain-web.jpg",
+    "https://media.zielonamapa.pl/images/europa/anglia/lake-district/lake-district.jpg",
+    "https://media.zielonamapa.pl/images/europa/anglia/lake-district/lake-district-2.jpg",
+    "https://www.nationalparks.uk/app/uploads/2020/10/LakeDistrict-HJohnson-LDNP-2018-59-Langdales-LR-1920x1080.jpg",
+    "https://ocdn.eu/pulscms-transforms/1/YmEk9kqTURBXy8wYjcwN2RkNTY2ZDU2ZTkyNzgyOTdiMmUzZGFhNWE1Mi5qcGVnk5UDAMyRzRRAzQtkkwXNAxTNAbyTCaYyODAzMTUGgaEwAQ/lake-district.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lake_District_National_Park_UK_location_map.svg/800px-Lake_District_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f67f"
+  },
+  "name": "Snowdonia",
+  "description": "Snowdonia (walijski: Eryri) jest to górzysty region w północno-zachodniej Walii. Park leży na terenach hrabstw Conwy i Gwynedd. Nazwa parku pochodzi od nazwy najwyższego szczytu Parku oraz Walii - Snowdon (1085 m). <br><br>Park zawdzięcza swój obecny kształt zlodowaceniom, dzięki którym możemy podziwiać charakterystyczny skalisty krajobraz. <br><br>Główne pasma Snowdonii to masyw Snowdon, Glyderau, Carneddau, Moelwynion i Moel Hebog. Wszystkie trzytysięczniki (stopy) Walii znajdują się w pierwszych trzech z tych masywów i są najbardziej popularne wśród odwiedzających. W Parku znajduje się wiele małych jezior zajmujących kotły polodowcowe ze względu na dawną obecność lodowcowa w Snowdonii.<br><br><ul><li>Park ma 60 km linii brzegowej.</li><li>69,9% powierzchni jest własnością prywatną. </li><li>Ponad 26 000 ludzi mieszka na terenie Parku</li><li>58,6% ludności umie posługiwać się Walijskim</li><li>Rocznie odwiedza go ok. 6 milionów turystów</li></ul>\n",
+  "year": 1951,
+  "area": 2142,
+  "website": "http://www.eryri-npa.gov.uk/",
+  "galery": [
+    "https://media.zielonamapa.pl/images/europa/walia/snowdonia/snowdonia-1.jpg",
+    "https://i0.wp.com/www.naszeszlaki.pl/wp-content/uploads/2021/06/szlak-sciezka-droga-na-snowdon-snowdonia-4.jpg?fit=900%2C506&ssl=1",
+    "https://images.musement.com/cover/0087/57/snowdonia-jpeg_header-8656774.jpeg?w=1200&h=630&q=95&fit=crop",
+    "https://navtur.pl/files/news/207.jpg",
+    "https://navtur.pl/files/news/207_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Snowdonia_National_Park_UK_location_map.svg/800px-Snowdonia_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f680"
+  },
+  "name": "Dartmoor",
+  "description": "Dartmoor to obszar wyżynny w południowej Anglii. Granit, który tworzy wyżyny pochodzi z karbonu. Na krajobraz Parku składa się wiele wrzosowisk, torów (formacja skalna) oraz wzniesień. Najwyższym punktem w Dartmoor jest High Willhays - 621 m.<br><br>Na Dartmoor pada znacznie więcej deszczu niż na okoliczne niziny. Ponieważ większość Parku pokryta jest grubymi warstwami torfu, deszcz jest zwykle szybko wchłaniany i rozprowadzany powoli, więc torfowiska rzadko są suche. W miejscach, gdzie gromadzi się woda, mogą powstawać niebezpieczne bagna.<br><br>Wiele gatunków ptaków żyje w Dartmoor np. kormoran czarny, tracz nurogęś, czapla siwa, kulik wielki, skowronek zwyczajny, czy bekas kszyk.<br><br><ul><li>Park zamieszkuje 34 500 osób</li><li>Park rocznie odwiedza 2,4 mln turystów</li><li>65% Dartmoor jest z granitu</li><li>Rolnicy hodują w Dartmoor 50 000 krów, owiec i kucyków</li></ul>\n",
+  "year": 1951,
+  "area": 956,
+  "website": "https://www.dartmoor.gov.uk/",
+  "galery": [
+    "https://visitdartmoor.co.uk/wp-content/uploads/2020/02/dnpa2-1200x800.jpg",
+    "https://www.dartmoor.gov.uk/__data/assets/image/0034/76849/Teign-e-ver-DNPA-2007.JPG",
+    "https://ichef.bbci.co.uk/news/976/cpsprodpb/9E10/production/_115046404_22f3b66f-1754-4570-9ea6-64fe8e1d9548.jpg",
+    "https://www.englishriviera.co.uk/imageresizer/?image=%2Fdbimgs%2FER%20Gal-DTMR17_00611-A.jpeg&action=FeaturedItemsScroll20193x2",
+    "https://www.uniquedevontours.com/application/files/5915/5215/7206/highland-cattle-dartmoor-dusk.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dartmoor_National_Park_UK_location_map.svg/1024px-Dartmoor_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f681"
+  },
+  "name": "Pembrokeshire Coast",
+  "description": "Park Narodowy Pembrokeshire Coast (walijski: Arfordir Penfro) ciągnie się wzdłuż wybrzeża  Pembrokeshire w zachodniej Walii. Jest to jedyny Park Narodowy w Wielkiej Brytanii, który składa się głównie z krajobrazów przybrzeżnych. Odległość końca parku od morza nigdzie nie przekracza 10 mil (ok. 16 km).<br><br>Krajobraz charakteryzuje się dużą ilością skalistych klifów, piaszczystych plaży, ujściami rzek, wzgórzami oraz wrzosowiskami. Teren parku obejmuje również niedalekie wyspy m.in. St Margaret, Skomer, Skokholm, Ramsey, Middleholm, Grassholm i Caldey.<br><br>Jest to ekologicznie jedna z najbogatszych i najbardziej zróżnicowanych części Walii i jest uznawana za mającą międzynarodowe znaczenie dla szerokiej gamy wysokiej jakości siedlisk i rzadkich gatunków. Na terenie Parku jest wiele kolonii ptaków. Grassholm ma jedną z największych na świecie kolonii głuptaków.<br><br><ul><li>Park zamieszkuje 22 350 osób</li><li>Długość linii brzegowej wynosi 420 km</li><li>Rocznie park odwiedza ok. 4.2 mln osób</li></ul>\n",
+  "year": 1952,
+  "area": 620,
+  "website": "https://www.pembrokeshirecoast.wales/",
+  "galery": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Green_Bridge_of_Wales_1_-_Pembrokeshire_%282010%29.jpg/1200px-Green_Bridge_of_Wales_1_-_Pembrokeshire_%282010%29.jpg",
+    "https://www.beckythetraveller.com/wp-content/uploads/2017/12/Things-to-do-Pembrokeshire-Coast-National-Park_Pwll-Deri-to-Strumble-Head-walk-72-1280x853-1200x800.jpg",
+    "https://www.planetware.com/photos-large/W/wales-pembrokeshire-coast-national-park.jpg",
+    "https://cdn2.wanderlust.co.uk/media/1054/blue-lagoon-pembrokeshire.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=132157917010000000",
+    "https://www.worldatlas.com/r/w1200/upload/05/b8/d2/strumble-head-lighthouse-pembrokeshire-coast-national-park-wales-uk-steved-np3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pembrokeshire_Coast_National_Park_UK_location_map.svg/1024px-Pembrokeshire_Coast_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f682"
+  },
+  "name": "North York Moors",
+  "description": "Park Narodowy North York Moors to obszar wyżynny w północno-wschodniej Anglii. Znajduje się w nim jedna z największych połaci wrzosowisk w Wielkiej Brytanii, której powierzchnia wynosi 440 km2, jest to prawie jedna trzecia całego Parku. W parku oprócz wrzosowisk możemy obserwować wzgórza oraz doliny, z których największa to Eskdale. W North York Moors płynie też rzeka Esk, która płynie ze szczytów torfowisk do Morza Północnego w Whitby, jest jedyną rzeką w Yorkshire i jedną z siedmiu w Anglii, w której można znaleźć perłę słodkowodną. <br><br>Lasy, które występują głównie na południowym-zachodzie i południowym-wschodzie, pokrywają około 23% terenu Parku. Jest to jedno z największych skupisk starych drzew w północnej Anglii.<br><br>North York Moors jest domem dla najbardziej wysuniętej na północ kolonii motyli Wielena plamowstęg w Wielkiej Brytanii i najbardziej wysuniętym na południe miejscem występowania jednej z odmiany derenia.<br><br><ul><li>Park zamieszkuje 25 000 osób</li><li>Park rocznie odwiedza 8 mln turystów</li><li>Park ma 176 km linii brzegowej</li><li>Najwyższy punkty w Parku to Urra Moor o wysokości 454 m.</li></ul>\n",
+  "year": 1952,
+  "area": 1436,
+  "website": "http://www.northyorkmoors.org.uk/",
+  "galery": [
+    "https://cloudinary.parallax.dev/yorkshire/image/upload/f_auto,g_auto,c_fill,dpr_2,q_100,w_650,h_450/media/media/55788/2810803992919e1975addk.jpg",
+    "https://www.telegraph.co.uk/content/dam/Travel/2018/July/North-York-moors-heather-iStock-183992953.jpg",
+    "https://www.telegraph.co.uk/content/dam/Travel/leadAssets/25/95/moors-train_2595808a-xlarge.jpg",
+    "https://www.nationalparks.uk/app/uploads/2020/07/Evening-lights-at-Staithes-by-Ebor-Images-resized-1800x1080.jpg",
+    "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2018/10/moors3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/North_York_Moors_map_en.png/1280px-North_York_Moors_map_en.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f683"
+  },
+  "name": "Yorkshire Dales",
+  "description": "Park Narodowy Yorkshire Dales znajduje się na wyżynnym obszarze gór Pennińskich, w północnej Anglii. Park powstał w 1954, jego teren znajdował się jedynie w granicach hrabstwa North Yorkshire, jednak w 2016 zdecydowano się na powiększenie jego powierzchni o 24% obejmując przy tym części hrabstw Lancashire i Westmorland. <br><br>Na jego obszarze znajduje się wiele dolin. Większe z nich to Wensleydale, Swaledale, Wharfedale, Malhamdale, Dentdale, Ribblesdale. Natomiast mniej znane to m.in. Nidderdale, Widdale, czy Littondale. Turyści często decydują się zdobyć trzy najwyższe szczyty w parku. Są to Whernside, Ingleborough i Pen-y-ghent. <br><br>W Yorkshire Dales występuje ponad 1000 gatunków ciem, około 100 gatunków ptaków, ponad 25 gatunków motyli, ponad 30 gatunków ssaków i setki gatunków roślin m.in. w Parku występuje gatunek mchu, który nie rośnie nigdzie indziej na świecie.<br><br><ul><li>Park zamieszkuje 23 500 osób</li><li>Park rocznie odwiedza ponad 4 mln turystów</li><li>Ponad 95% powierzchni Parku jest własnością prywatną</li><li>Długość szlaków dla pieszych w parku wynosi 2 628 km</li><li>Długość szlaków konnych w parku wynosi 618 km</li><li>W parku znajduje się 1 090 farm</li></ul>\n",
+  "year": 1954,
+  "area": 2179,
+  "website": "http://www.yorkshiredales.org.uk/",
+  "galery": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/13/2015_Swaledale_from_Kisdon_Hill.jpg",
+    "https://cdn.getyourguide.com/img/tour/54cb60659e97f.jpeg/148.jpg",
+    "https://www.nationalparks.uk/app/uploads/2020/07/1.-Walls-and-Barns-Stephen-Garnett-1920x1080.jpg",
+    "https://static.independent.co.uk/2021/01/27/09/iStock-184337840trains.jpg?quality=75&width=982&height=726&auto=webp",
+    "https://www.tapeciarnia.pl/tapety/normalne/tapeta-samotny-jesion-na-skalach-w-parku-narodowym-yorkshire-dales.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yorkshire_Dales_National_Park_UK_location_map.svg/800px-Yorkshire_Dales_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f684"
+  },
+  "name": "Exmoor",
+  "description": "Park Narodowy Exmoor jest to obszar wyżynny położony w południowo-zachodniej Anglii. Leży on nad Kanałem Bristolskim W Parku możemy podziwiać wrzosowiska, torfowiska, klify, wąwozy i wodospady. Exmoor był niegdyś królewskim lasem i terenem łowieckim, obejmującym 76 km2, ale został on sprzedany w 1818 r.<br><br>W Parku znajduje się najwyższy klif morski w kontynentalnej części Wielkiej Brytanii. Jest to Great Hangman o wysokość wyższej części wzgórza wynosi 318 m, oraz wysokość ściany klifu wynoszącej 244 m. Najwyższym punktem wzgórz przybrzeżnych parku jest Cubone Hill, który osiąga 414 m. Lasy Exmoor czasami sięgają do linii brzegowej, zwłaszcza między Porlock i Foreland Point, gdzie tworzą najdłuższy odcinek przybrzeżnego lasu w Anglii i Walii. <br><br>Na wrzosowiskach Parku żyje wiele jeleni szlachetnych. Jednym z nich był Emperor of Exmoor, największe znane dzikie zwierze w Wielkiej Brytanii. Niestety w październiku 2010 został zabity. Charakterystyczne dla Parku są Kuce Exmoor. Można zobaczyć je swobodnie wędrujące po wrzosowiskach. Są one jedną z najstarszych ras kucyków na świecie. Podczas II wojny światowej wiele kuców zostało zabitych. Przeżyło ich tylko 50.<br><br><ul><li>Park zamieszkuje 10 600 osób</li><li>Park rocznie odwiedza 1,4 mln turystów</li><li>Najwyższy szczyt parku to Dunkery Beacon (519 m)</li><li>Długość wybrzeża: 55 km</li></ul>\n",
+  "year": 1954,
+  "area": 693,
+  "website": "http://www.exmoor-nationalpark.gov.uk/",
+  "galery": [
+    "https://img.itinari.com/pages/images/original/ea437d53-6300-46a0-b0cd-bf4215a7a7dd-istock-178510489.jpg?ch=DPR&dpr=2.625&w=1200&h=800&s=c177e18564e99da2a1f02591117e0f5f",
+    "https://eu-assets.simpleview-europe.com/devon2016/imageresizer/?image=%2Fdbimgs%2FValley%20of%20the%20Rocks.jpg&action=PageHeader",
+    "https://exmoorponysociety.org.uk/wp-content/uploads/2020/03/exmoor-ponies-1920x960-01.png",
+    "https://cdn.pixabay.com/photo/2019/07/15/12/03/exmoor-4339183_960_720.jpg",
+    "https://foto.hrsstatic.com/fotos/0/3/545/350/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F1%2F4%2F6%2F7%2F146729%2F146729_um_9145408.jpg/F6ztckV1XoYa3dUClN6S2A%3D%3D/5598,3732/6/Exmoor_White_Horse_Inn-Minehead_West_Somerset-Umgebung-146729.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Exmoor_National_Park_UK_location_map.svg/1280px-Exmoor_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f685"
+  },
+  "name": "Northumberland",
+  "description": "Park Narodowy Northumberland jest najbardziej wysuniętym na północ parkiem w Anglii. Park leży w całości w hrabstwie Northumberland, zajmując około jednej czwartej jego powierzchni.<br><br>Park obejmuje kilka odrębnych obszarów. Na północy znajduje się pasmo wzgórz i gór Cheviot Hills, które wyznacza granicę między Anglią a Szkocją. W środkowej części  możemy podziwiać wrzosowiska, z których część została pokryta plantacjami leśnymi, tworząc Las Kielderski. Południowa część parku obejmuje pozostałości centralnego odcinka Muru Hadriana, pochodzącego z czasów rzymskiej okupacji.<br><br>Ministerstwo Obrony Wielkiej Brytanii jest właścicielem części gruntów w Parku Narodowym. Teren ten tworzy obszar szkoleniowy Otterburn Training Area, który stanowi 23% Parku. Niektóre części obszaru są niedostępne, a do innych można uzyskać dostęp tylko w określonych godzinach lub za zgodą. <br><br><ul><li>Park zamieszkuje 2 200 osób</li><li>Park rocznie odwiedza 1,5 mln turystów</li><li>Jest jednym z najrzadziej odwiedzanych Parków Narodowych</li></ul>\n\n",
+  "year": 1956,
+  "area": 1049,
+  "website": "http://www.northumberlandnationalpark.org.uk/",
+  "galery": [
+    "https://a.cdn-hotels.com/gdcs/production69/d129/0e96de8a-ff22-42fd-92be-bf4aa098be9a.jpg",
+    "https://cdn.britannica.com/29/116329-050-02E60A61/Portion-Hadrians-Wall-Northumberland-National-Park-England.jpg",
+    "https://a.cdn-hotels.com/gdcs/production93/d856/70962bcf-5033-4c85-b884-e1e6498da1c9.jpg",
+    "https://walwickhall.com/wp-content/uploads/2020/04/Northumberland_600x400.jpg",
+    "https://cdn.getyourguide.com/img/location/5bb1131bf1fb7.jpeg/70.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Northumberland_National_Park_map.svg/800px-Northumberland_National_Park_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f686"
+  },
+  "name": "Brecon Beacons",
+  "description": "Park Narodowy Brecon Beacons (walijski: Bannau Brycheiniog) znajduje się w południowej Walii. Rozciąga się od Llandeilo na zachodzie, do Hay-on-Wye na północnym wschodnie i Pontypool na południowym wschodzie. <br><br>Park dzieli się na cztery główne regiony - Black Mountain (walijski: Y Mynydd Du) na zachodzie, Fforest Fawr i  Brecon Beacons w centrum, łącznie z najwyższym szczytem w Parku i w południowej Walii - Pen y Fan (886 m) oraz Black Mountains (Walijski: Y Mynydd Du or Mynyddoedd Duon) na wschodzie. <br><br>Większość Parku Narodowego to trawiaste wrzosowiska, na których wypasane są walijskie kuce górskie i górskie walijskie owce. Znajdują się tu też rozproszone plantacje leśne i pastwiska w dolinach. Znany jest z też wodospadów, w tym 27 metrowego wodospadu Henrhyd i wodospadów w Ystradfellte. Nie zabraknie tu jaskiń, takich jak Ogof Ffynnon Ddu.<br><br>W parku możemy zaobserwować wiele gatunków ptaków (m.in. Kruka zwyczajnego, Sokóła wędrownego, Białorzytke zwyczajną, Drozda obrożnego).<br><br><ul><li>Park zamieszkuje 32 000 osób</li><li>Park rocznie odwiedza ok 4.15 mln osób</li></ul>\n",
+  "year": 1957,
+  "area": 1351,
+  "website": "http://www.beacons-npa.gov.uk/",
+  "galery": [
+    "https://www.breconbeacons.org/app/uploads/2021/11/08_Sunset_CockittHill_03-1024x683.jpg",
+    "https://www.tripsavvy.com/thmb/nzVGhxrq2o8rm3LjxStZ88l_RfA=/2344x1279/filters:no_upscale():max_bytes(150000):strip_icc()/breconbeaconsnationalpark-16aad09e88a8478085a18a26925d317b.jpg",
+    "https://visitwalesimages.thedms.co.uk/eandapics/MW/vlarge/1010625_214_5.jpg",
+    "https://cdn.naturettl.com/wp-content/uploads/2021/02/26125041/How-to-Photograph-the-Brecon-Beacons-8-1200x675-cropped.jpg",
+    "https://cdn2.wanderlust.co.uk/media/1076/lists-brecon-beacons-national-park-dreamstime.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131484726930000000",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Brecon_Beacons_National_Park_UK_location_map.svg/800px-Brecon_Beacons_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f687"
+  },
+  "name": "The Broads",
+  "description": "Park Narodowy the Broads znajduje się we wschodniej Anglii. Na jego terenie znajduje się ponad 60 broads (płytkie jeziora połączone siecią rzek). Trzy największe jeziora to: Hickling, Barton, Oulton. W parku jest też 7 rzek - Bure, Ant, Thurne, Yare, Chet, Waveney i Wensum.<br><br>Przez wiele lat jeziora uważano za naturalny element krajobrazu. Dopiero w latach sześćdziesiątych Dr Joyce Lambert udowodnił, że są to sztuczne elementy - zalane średniowieczne wykopaliska torfu, który służył jako paliwo do ogrzewania i gotowania. Na przestrzeni wieków podniósł się poziom wody, wykopaliska torfowe zostały zalane i do XIV wieku zostały opuszczone.<br><br>W Parku występuje jedna czwarta najrzadszych gatunków w Wielkiej Brytanii. Z rzadkich zwierząt możemy spotkać żurawie, żagnice rude, motyle paziowate, bagniki nawodne. Natomiast z roślin w Parku występują m.in.: gorysz błotny, jezierza morska, wywłócznik, rdestnica grzebieniasta, czy ramienicowce.<br><br><ul><li>Park zamieszkuje 6 300 osób</li><li>Park rocznie odwiedza 7,45 mln turystów</li><li>Długość linii brzegowej wynosi 2,7 km</li><li>Najwyższy punkt w parku to Strumpshaw Hill (38 m)</li><li>W parku znajduje się trzecia co do wielkości śródlądowa droga wodna w Wielkiej Brytanii</li></ul>\n",
+  "year": 1988,
+  "area": 303,
+  "website": "http://www.broads-authority.gov.uk/",
+  "galery": [
+    "https://www.broads-authority.gov.uk/__data/assets/image/0020/254225/broads-aerial-copyright-mike-page.jpg",
+    "https://img.peapix.com/c3e5d2d024304feeb4301af8a565534e.jpg?attachment&modal",
+    "https://www.nationalparks.uk/app/uploads/2020/09/hero-broads-1800x1080.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5f/95/ff/boats-at-horsey-mere.jpg?w=1200&h=1200&s=1",
+    "https://www.broads-authority.gov.uk/__data/assets/image/0025/388222/mike-page.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Broads_UK_location_map.svg/1200px-The_Broads_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f688"
+  },
+  "name": "New Forest",
+  "description": "Park Narodowy New Forest jest położony w południowej Anglii. Znajduje się tam wiele wrzosowisk, wrzosowisk i starych lasów. <br><br>W New Forest jest wiele rzek - m.in Lymington, Beaulieu i Avon Water, Latchmore Brook, Dockens Water, Linford Brook i inne mniejsze strumienie. Najwyższym punktem w New Forest jest Pipers Wait (129 m)<br><br>W Parku żyje wiele zwierząt, w tym jedyny pochodzący z Wielkiej Brytanii gatunek cykad, choć obecnie jest ich bardzo niewiele. Oprócz nich możemy spotkać: pokrzewkę kasztanowatą, żmije zygzakowatą, gniewosza plamistego, jaszczurkę zwinkę, jelenia szlachetnego, oraz konie, które są charakterystyczne dla New Forest.<br><br>Wilgotne wrzosowiska są ważne dla rzadkich roślin, takich jak goryczka wąskolistna, czy widłaczek torfowy.<br><br><ul><li>Park zamieszkuje 34 400 osób</li><li>Park odwiedza rocznie ok. 14,75 mln turystów</li></ul>\n",
+  "year": 2005,
+  "area": 580,
+  "website": "https://www.newforestnpa.gov.uk/",
+  "galery": [
+    "https://www.newforestnpa.gov.uk/app/uploads/2018/07/homepage-hero-image-smaller.jpg",
+    "https://www.visitbournemouth.com/media/zoo/images/newforestponies_10dbf0c9102580a80415c4f66cf48511.jpg",
+    "https://i.pinimg.com/originals/2b/0a/e5/2b0ae598e4dc3ca5df420aee7a686311.jpg",
+    "https://www.atlasandboots.com/wp-content/uploads/2017/08/3.Best-viewpoints-in-the-New-Forest-National-Park-Picket-Post.jpg",
+    "https://www.snaptrip.com/c/wp-content/uploads/2018/03/13-reasons-to-visit-the-New-Forest-1024x585.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/New_Forest_National_Park_map.svg/1024px-New_Forest_National_Park_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f689"
+  },
+  "name": "South Downs",
+  "description": "Park Narodowy South Downs znajduje się w południowej Anglii. Park obejmuje swoim obszarem pasmo kredowych wzgórz South Downs oraz Western Weald.<br><br>Na terenie Parku znajduje się ścieżka South Downs Way, która prowadzi z Winchester do Eastbourne i ma 160 km. Jest to jedyny z piętnastu długodystansowych szlaków National Trails, który w całości znajduje się na terenie Parku Narodowego.<br><br>South Downs jest domem dla wielu rzadkich gatunków, w tym modraszka adonis, który wspaniale rozwija się na kredowych łąkach.<br><br><ul><li>Park zamieszkuje 120 000 osób</li><li>Jest to najmłodszy Park Narodowy w Wielkiej Brytanii</li><li>Cissbury Ring, na północ od Worthing, jest drugim co do wielkości fortem w Anglii.</li></ul>\n",
+  "year": 2010,
+  "area": 1641,
+  "website": "http://www.southdowns.gov.uk/",
+  "galery": [
+    "https://files.holidaycottages.co.uk/blogs%2F1629465548382-southdownsguide_driver.jpg",
+    "https://ichef.bbci.co.uk/news/976/cpsprodpb/DF24/production/_119242175_443e3736-9d42-468a-a16f-02866a6665ff.jpg",
+    "https://eu-assets.simpleview-europe.com/hampshire2016/imageresizer/?image=%2Fdbimgs%2FSouth%20Downs%20Banner%201.jpg&action=MainGalleryImg",
+    "https://travelwithkat.com/wp-content/uploads/2020/08/Halnaker-Tree-Tunnel-West-Sussex.jpg",
+    "https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2018/07/thinkWhere_South_Downs.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/South_Downs_National_Park_UK_location_map.svg/1920px-South_Downs_National_Park_UK_location_map.svg.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f68a"
+  },
+  "name": "Loch Lomond and The Trossachs",
+  "description": "Loch Lomond and The Trossachs (szkocki: Pàirc Nàiseanta Loch Laomainn is nan Tròisichean) to Park Narodowy w Szkocji, który pokrywa większą powierzchnię zachodniej części południowych wyżyny leżącej na północ od Glasgow. Park dzieli się na cztery sekcje -  Breadalbane, Loch Lomond, The Trossachs i Cowal. <br><br>Loch Lomond jest największym jeziorze w Wielkiej Brytanii (71 km2). Na jeziorze znajduje się wiele wysp, w tym Inchmurrin (największą wyspę słodkowodną na Wyspach Brytyjskich).  <br><br>W parku narodowym zarejestrowano ponad 200 gatunków ptaków (m.in. Tetrao, Orła przedniego, Sokoła wędrownego, Cietrzewia zwyczajnego) i ponad 25% wszystkich znanych gatunków roślin występujących w Wielkiej Brytanii. W Parku można zaobserwować też bobry, a ich oznaki aktywności są obserwowane na Loch Achrayw.<br><br><ul><li>Park zamieszkuje 15 600 osób</li><li>Park rocznie odwiedza 2,9 mln turystów</li><li>W Parku znajdują się 22 duże jeziora i 50 rzek</li></ul>\n",
+  "year": 2002,
+  "area": 1865,
+  "website": "https://www.lochlomond-trossachs.org/",
+  "galery": [
+    "https://www.nationalparks.uk/app/uploads/2020/09/Hero_Loch_Lomond-1800x1080.jpg",
+    "https://peakvisor.com/img/news/Loch-Lomond-Trossachs-NP.jpg",
+    "https://tzmedia.b-cdn.net/media/images/gb/place/max/66425b8356328d83f00d938f9656c188.jpg?1582270511",
+    "https://www.10adventures.com/wp-content/uploads/2019/02/Cashel-Forest_06_Viewpoint_-looking-north-to-Loch-Lomond-1.jpg",
+    "https://i.natgeofe.com/n/cf99b08d-b990-4c80-9725-8f4feaf6d832/30866_3x2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Loch_Lomond_and_The_Trossachs_National_Park_UK_relief_location_map.png/284px-Loch_Lomond_and_The_Trossachs_National_Park_UK_relief_location_map.png"
+  ]
+},{
+  "_id": {
+    "$oid": "62a5e2ef346e4e482603f68b"
+  },
+  "name": "Cairngorms",
+  "description": "Park Narodowy Cairngorms (szwecki: a' Mhonaidh Ruaidh) jest położony w północno-wschodniej Szkocji, w górach Cairngorms. Jest to największy Park Narodowy w Wielkiej Brytanii. W 2010 został poszerzony o dodatkowy obszar Highland Perthshire i Glenshee.<br><br>Pasmo górskie Cairngorms leży w sercu Parku, znajdują się tu cztery z pięciu najwyższych szczytów w Wielkiej Brytanii - Ben Macdui (1 309 m), Braeriach (1 296 m), Cairn Toul (1 291 m), Sgor an Lochain (1 258 m). Oprócz tego możemy podziwiać inne łańcuchy górskie, takie jak Angus Glens i Monadhliath. W Parku wypływają trzy główne rzeki: Spey, Dee i Don. Spey jest drugą pod względem długości rzeką w Szkocji.<br><br>W górach Cairngorm znajdują się skaliste wrzosowiska i tereny o charakterze górskiej półtundry. Występuje tam wiele rzadkich roślin, ptaków i zwierząt. Wiele ptaków ma tu swoje obszary lęgowe - m.in. Mornel, Śnieguła zwyczajna, Orzeł przedni, Pardwa górska. Ssaki jakie możemy zaobserwować to np. Jeleń szlachetny, Zając bielak, czy Wydry.<br><br><ul><li>Park zamieszkuje 18 000 osób</li><li>Park rocznie odwiedza 1,9 mln turystów</li></ul>\n",
+  "year": 2003,
+  "area": 4528,
+  "website": "https://cairngorms.co.uk/",
+  "galery": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Cairngorms_-_geograph.org.uk_-_1766434.jpg",
+    "https://ichef.bbci.co.uk/news/976/cpsprodpb/83AB/production/_114270733_glendoll.jpg",
+    "https://img.itinari.com/pages/images/original/f29c1167-3036-4d63-be67-d0dc619c8bc4-istock-1046288132.jpg?ch=DPR&dpr=2.625&w=1200&h=800&s=1f650d86a40a6011216d9d73c36c58bf",
+    "https://media.istockphoto.com/photos/reindeers-of-cairngorms-picture-id1191030987?k=20&m=1191030987&s=612x612&w=0&h=LUSk9KBQqilYS0pdBU4wPTFl3rBDlN4iqgLlnGdCkvM=",
+    "https://images.ctfassets.net/mivicpf5zews/2KN8lkWgo8mkukCos2Eiee/5717c609ad972bdfd0b93c609c0af009/Cairnogorms_National_Park_-_What_to_see_1200x600.jpg?q=70&w=1024",
+    "https://upload.wikimedia.org/wikipedia/commons/1/16/Cairngorm_national_park.png"
+  ]
+}]
